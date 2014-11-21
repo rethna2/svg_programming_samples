@@ -1,0 +1,37 @@
+#wrapper div{
+    float: left;
+}
+
+#tools{
+    width: 100px;
+    height: 400px;
+
+}
+
+#tools div{
+    margin: 25px;
+    width: 50px;
+    height: 50px;
+}
+
+#pencilTool{
+    background-color:#999999 ;
+}
+
+#lineTool{
+    background-color:#999999 ;
+}
+
+#rectTool{
+    background-color:#999999 ;
+}
+
+#ellipseTool{
+    background-color:#999999 ;
+}
+
+#svgWrapper{
+    width: 600px;
+    height: 400px;
+    outline:3px solid #999999;
+}
