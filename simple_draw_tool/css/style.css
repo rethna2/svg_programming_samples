@@ -14,20 +14,21 @@
     height: 50px;
 }
 
-#pencilTool{
-    background-color:#999999 ;
+#pencilTool {
+    background: url("../images/tools.jpg") -152px, 0;
+
 }
 
-#lineTool{
-    background-color:#999999 ;
+#lineTool {
+    background: url("../images/tools.jpg") -50px, 0;
 }
 
-#rectTool{
-    background-color:#999999 ;
+#rectTool {
+    background: url("../images/tools.jpg") -101px, -20px;
 }
 
-#ellipseTool{
-    background-color:#999999 ;
+#ellipseTool {
+    background: url("../images/tools.jpg") -2px, 0;
 }
 
 #svgWrapper{
